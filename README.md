@@ -1,1 +1,2 @@
 # MachineLearningPipelines
+Một quy trình khoa học dữ liệu thủ công có thể đủ khi các mô hình ML của bạn hiếm khi được thay đổi hoặc đào tạo lại. Tuy nhiên trong thực tế các mô hình thường bị hỏng khi được triển khai trong thế giới thực. Lý do là vì nó không thích ứng được với sự thay đổi của môi trường dữ liệu, vì vậy bạn cần xây dựng một Machine Learning Pipeline để dễ dàng huấn luyện lại mô hình của mình.
